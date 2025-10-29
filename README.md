@@ -54,7 +54,7 @@
 
 ## 🎯 Currently Working On
 
-- 🔭 I'm currently working on **React Appication**
+- 🔭 I'm currently working on **React Application**
 - 🌱 I'm learning **DSA**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, JavaScript, or Web Development**
