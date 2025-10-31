@@ -4,23 +4,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+a+Frontend+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header&text=Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=49e1c7&height=145&section=header&text=Sneha%20Dhar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Profile Picture -->
-<img src="https://i.pinimg.com/originals/2e/60/07/2e60079f1e36b5c7681e3e56f3530f14.gif" width="200" height="200" style="border-radius:50%; margin:20px 0;" />
+<img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE5MjMxMDYsIm5iZiI6MTc2MTkyMjgwNiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMxVDE1MDAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NjBhOTMxZjQ3ZGZkOGU1MDc1Y2JiZmFkNWQ1ODg4ZjNlY2JhNmZkOGQ3MzVhNDM5OGMwMDM4ZWU0ODZmZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XW8aBdF-XkjdPYEwhqqbNWV3wPio2IIlhTTdLLW6x0w" width="300" height="300" style="border-radius:50%; margin:20px 0;" />
 
 <!-- Social Badges -->
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/snehadhar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile">
+  <!-- <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://portfolio-website.com">
+  </a> -->
+  <!-- <a href="https://portfolio-website.com">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  </a> -->
+  <a href="mailto:dharsneha109@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -66,8 +66,9 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/snehadhar/])
-
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehadhar/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharsneha109@gmail.com)
+  
 </div>
 
 <br />
