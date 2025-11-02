@@ -4,10 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Hello+World!+👋;I'm+a+Frontend+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 
 <!-- Profile Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=49e1c7&height=155&section=header&text=Sneha%20Dhar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=49e1c7&height=175&section=header&text=Sneha%20Dhar&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 <!-- Profile Picture -->
-<img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE5MjMxMDYsIm5iZiI6MTc2MTkyMjgwNiwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMxVDE1MDAwNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4NjBhOTMxZjQ3ZGZkOGU1MDc1Y2JiZmFkNWQ1ODg4ZjNlY2JhNmZkOGQ3MzVhNDM5OGMwMDM4ZWU0ODZmZWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.XW8aBdF-XkjdPYEwhqqbNWV3wPio2IIlhTTdLLW6x0w" width="300" height="300" style="border-radius:50%; margin:20px 0;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUwbW5jZWxoaTIwYXM5dno0aGhxd3kxOTIwZGZyZWI4YTdiem1uaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/nOm2dpExK6TYPq3s0Q/giphy.gif" width="300" style="border-radius:50%; margin:20px 0;" />
+
 
 <!-- Social Badges -->
 <div align="center">
@@ -27,6 +28,18 @@
 
 <br />
 
+<!-- Animated Stats -->
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzSnehu&show_icons=true&theme=radical&count_private=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzSnehu&layout=compact&theme=radical&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzSnehu&theme=radical&hide_border=true)
+
+</div>
+
+<br />
 
 ## 🛠️ Tech Stack & Tools
 
@@ -49,6 +62,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br />
+
+## 📈 GitHub Activity
+
+<!-- GitHub Activity Graph -->
+[![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itzSnehu&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/itzSnehu/github-readme-activity-graph)
 
 <br />
 
